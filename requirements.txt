@@ -1,0 +1,7 @@
+numpy 
+torch 
+python-terrier 
+pandas 
+ipython 
+scikit-learn 
+transformers
